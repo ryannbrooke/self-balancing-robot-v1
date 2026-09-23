@@ -1,4 +1,4 @@
-Self-Balancing Robot Version 1
+# self-balancing-robot-v1
 ## Overview
 
 A self-balancing two-wheeled robot that maintains an upright position using real-time tilt feedback. Built using an ESP32 microcontroller, an MPU6050 IMU, and an L298N motor driver, with a single-loop PID controller correcting tilt angle by driving the wheels.
