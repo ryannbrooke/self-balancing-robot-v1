@@ -44,6 +44,9 @@ A self-balancing two-wheeled robot that maintains an upright position using real
 - Wi-Fi telemetry and remote monitoring
 - Dedicated regulated power rail for the ESP32/IMU, separate from the motor driver
 
+## Video Demo
+https://youtube.com/shorts/QDtczpspPIA?si=DRbILwfgAtBbf24G
+
 ## Author
 
 Ryan Brooke Simon Fraser University Mechatronics Systems Engineering
