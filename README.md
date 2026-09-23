@@ -25,7 +25,7 @@ A self-balancing two-wheeled robot that maintains an upright position using real
 - PID_v1_bc Library
 - MPU6050 (DMP-based orientation)
 ## How it Works
-1.Read pitch angle from the MPU6050's onboard DMP.
+1. Read pitch angle from the MPU6050's onboard DMP.
 2. Compare pitch against the calibrated balance setpoint.
 3. Run the error through a PID controller to compute a motor correction output.
 4. Drive both motors in the corrective direction and magnitude.
