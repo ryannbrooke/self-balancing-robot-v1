@@ -1,8 +1,6 @@
 # self-balancing-robot-v1
 ## Overview
-
 A self-balancing two-wheeled robot that maintains an upright position using real-time tilt feedback. Built using an ESP32 microcontroller, an MPU6050 IMU, and an L298N motor driver, with a single-loop PID controller correcting tilt angle by driving the wheels.
-
 ## Features
 - Real-time tilt sensing and correction
 - ESP32 microcontroller
@@ -42,10 +40,7 @@ A self-balancing two-wheeled robot that maintains an upright position using real
 - Battery voltage monitoring
 - Encoder feedback and an outer position control loop
 - Wi-Fi telemetry and remote monitoring
-
 ## Video Demo
-https://youtube.com/shorts/QDtczpspPIA?si=DRbILwfgAtBbf24G
-
+https://youtube.com/shorts/4xzZ37ftEgc?si=5p00JmNvNGEnyHuQ
 ## Author
-
 Ryan Brooke Simon Fraser University Mechatronics Systems Engineering
