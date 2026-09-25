@@ -42,7 +42,6 @@ A self-balancing two-wheeled robot that maintains an upright position using real
 - Battery voltage monitoring
 - Encoder feedback and an outer position control loop
 - Wi-Fi telemetry and remote monitoring
-- Dedicated regulated power rail for the ESP32/IMU, separate from the motor driver
 
 ## Video Demo
 https://youtube.com/shorts/QDtczpspPIA?si=DRbILwfgAtBbf24G
